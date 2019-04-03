@@ -17,6 +17,7 @@
     "hexo-server": "^0.3.3"
   },
   "devDependencies": {
-    "hexo-asset-image": "^0.0.3"
+    "hexo-asset-image": "^0.0.3",
+    "hexo-deployer-git": "^1.0.0"
   }
 }
